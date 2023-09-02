@@ -95,4 +95,5 @@ fblcd.out [--version] [-{en,de} infile outfile]
 ## 4 参考资料
 
 **[1] ITU-T T.87** : Information technology – Lossless and near-lossless compression of continuous-tone still images – Baseline :  https://www.itu.int/rec/T-REC-T.87/en
+
 **[2] davidebardone的Github项目 jpeg-ls**  : https://github.com/davidebardone/jpeg-ls
